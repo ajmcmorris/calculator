@@ -1,0 +1,27 @@
+{
+  "name": "calculator",
+  "version": "0.1.0",
+  "description": "javascript calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajmcmorris/calculator.git"
+  },
+  "keywords": [
+    "javascript",
+    "calculator"
+  ],
+  "author": "andre mcmorris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajmcmorris/calculator/issues"
+  },
+  "homepage": "https://github.com/ajmcmorris/calculator",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2"
+  }
+}
